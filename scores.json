@@ -2,5 +2,12 @@
     {"id" : 0, "Name" : "Paco", "Score" : 1000},
     {"id" : 1, "Name" : "Pepe", "Score" : 10432},
     {"id" : 2, "Name" : "Carlos", "Score" : 123410},
-    {"id" : 3, "Name" : "Felpe", "Score" : 14520}
+    {"id" : 3, "Name" : "Felipe", "Score" : 14520},
+    {"id" : 4, "Name" : "Juan", "Score" : 1932},
+    {"id" : 5, "Name" : "Miguel", "Score" : 5345},
+    {"id" : 6, "Name" : "Paquito", "Score" : 63347},
+    {"id" : 7, "Name" : "Ronaldo", "Score" : 63456},
+    {"id" : 8, "Name" : "Osvaldo", "Score" : 6324567},
+    {"id" : 9, "Name" : "Felicia", "Score" : 1235},
+    {"id" : 10, "Name" : "María", "Score" : 2365}
 ]
