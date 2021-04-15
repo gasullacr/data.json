@@ -1,9 +1,9 @@
-[{
-		"name": "ManoloJuan",
-		"score": 1000
-	},
-	{
-		"name": "JuanCarlosTen",
-		"score": -3
-	}
-]
+{ "team" : [{
+	"name": "ManoloJuan",
+	"score": 1000
+},
+{
+	"name": "JuanCarlosTen",
+	"score": -3
+}
+]}
